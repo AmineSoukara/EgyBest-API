@@ -27,6 +27,8 @@
 </p>
 
 <h4>
+    <a href="https://www.egybest-api.ga/docs/api/">Docs</a>
+  <span> · </span>
     <a href="https://github.com/AmineSoukara/EgyBest-Api/issues/">Report Bug</a>
   <span> · </span>
     <a href="https://github.com/AmineSoukara/EgyBest-Api/issues/">Request Feature</a>
@@ -39,15 +41,15 @@
 
 
 # 👨‍💻 Developer:
-<a href="https://bio.link/aminesoukara"><img src="https://img.shields.io/badge/@AmineSoukara-000000?style=for-the-badge&logo=messenger&logoColor=white"></a>
+<a href="https://bio.link/aminesoukara"><img src="https://img.shields.io/badge/@AmineSoukara-000000?style=flat&logo=messenger&logoColor=white?logoWidth=100"></a>
 
 # 💬 Support:
-<a href="https://t.me/EgyBestBotSupport"><img src="https://img.shields.io/badge/Group-FF0000?style=for-the-badge&logo=telegram&logoColor=white"></a>
-<a href="https://t.me/EgyBestBotOriginal"><img src="https://img.shields.io/badge/Channel-FF0000?style=for-the-badge&logo=telegram&logoColor=white"></a>
+<a href="https://t.me/EgyBestBotSupport"><img src="https://img.shields.io/badge/Group-FF0000?style=flat&logo=telegram&logoColor=white?logoWidth=100"></a>
+<a href="https://t.me/EgyBestBotOriginal"><img src="https://img.shields.io/badge/Channel-FF0000?style=flat&logo=telegram&logoColor=white?logoWidth=100"></a>
 
 # 🕹 Libraries:
-<a href="https://github.com/AmineSoukara/Py-EgyBest-Api"><img src="https://img.shields.io/badge/Python-8000FF?style=for-the-badge&logo=github&logoColor=white"></a>
-<a href="https://github.com/AmineSoukara/Java-EgyBest-Api"><img src="https://img.shields.io/badge/Java-8000FF?style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="https://github.com/AmineSoukara/Py-EgyBest-Api"><img src="https://img.shields.io/badge/Python-8000FF?style=flat&logo=github&logoColor=white?logoWidth=100"></a>
+<a href="https://github.com/AmineSoukara/Java-EgyBest-Api"><img src="https://img.shields.io/badge/Java-8000FF?style=flat&logo=github&logoColor=white?logoWidth=100"></a>
 
 
 # 📝 License:
@@ -59,9 +61,14 @@ This Project Is Licensed Under The [GNU General Public License v3.0](https://git
 # ⭐️ Features:
 <div align="left">
 
-* [x] Todo 1
-
-<div align="center">
+* [x] Smart Search
+* [x] Extract Full Info From Url (Movie-Serie/Anime)
+* [x] Extract: Story - Image - Title - Trailer - Actors Info - Note
+* [x] Extract Download and Stream Links With Full Info
+* [x] Extract Similar Movies
+* [x] Extract Seasons / Episodes
+* [x] Extract Previous And Next Episode
+* [x] Extract Movies Or Series From Paths
 
 # 🪐 Documentation:
 <div align="left">
@@ -77,22 +84,24 @@ This Project Is Licensed Under The [GNU General Public License v3.0](https://git
 [+] API Will Not Work Without it.
 ```
 
-## Test 1:
-Note
+## /dls:
+• Extract Download and Stream Links With Full Info
 ```py
-import x
-```
+import requests
+                 
+TOKEN = "abcd123"
+API = "http://0.1.2.3"
+MOVIE_URL = "https://www.egybest.org/movie/top-gun-maverick-2022"       
+HEADERS = {'Authorization': 'Bearer ' + TOKEN, 'Accept': 'application/json', 'Content-Type': 'application/json'}
+PARAMS = {"url": MOVIE_URL, "v": 2}                      
+URL = API +  "/dls"
 
-## Test 2:
-Note
-```py
-import x
-```
+response = requests.get(URL, headers=HEADERS, params=PARAMS)
 
-## Test 3:
-Note
-```py
-import x
+print(response.status_code)
+print(response.json())
 ```
+<a href="https://github.com/AmineSoukara/EgyBest-Api/blob/main/examples/dls_v2.json"><img src="https://img.shields.io/badge/Output-01DF01?style=flat&logo=json&logoColor=black"></a>
+
 
 </details>
