@@ -86,8 +86,17 @@ This Project Is Licensed Under The [GNU General Public License v3.0](https://git
 [+] API Will Not Work Without it.
 ```
 
-## /dls:
-• Extract Download and Stream Links With Full Info
+# /dls:
+<details>
+<summary><b> Extract Download and Stream Links With Full Info</b></summary>
+
+### Args:
+|  args  | required |  Note |
+|--------|----------|------|
+|  v     |  False   | 1-2 Return As list 3-4 As Dict, Default 1 |
+|  url   |  True    | Episode or Movie link |
+
+### Example:
 ```py
 import requests
                  
@@ -103,7 +112,14 @@ response = requests.get(URL, headers=HEADERS, params=PARAMS)
 print(response.status_code)
 print(response.json())
 ```
-<a href="https://github.com/AmineSoukara/EgyBest-Api/blob/main/examples/dls_v2.json"><img src="https://img.shields.io/badge/Output-01DF01?style=flat&logo=json&logoColor=black"></a>
+<a href="https://github.com/AmineSoukara/EgyBest-Api/blob/main/examples/dls_v1.json"><img src="https://img.shields.io/badge/Output–V1-01DF01?style=flat&logo=json&logoColor=black"></a>
+<a href="https://github.com/AmineSoukara/EgyBest-Api/blob/main/examples/dls_v2.json"><img src="https://img.shields.io/badge/Output–V2-01DF01?style=flat&logo=json&logoColor=black"></a>
+<a href="https://github.com/AmineSoukara/EgyBest-Api/blob/main/examples/dls_v3.json"><img src="https://img.shields.io/badge/Output–V3-01DF01?style=flat&logo=json&logoColor=black"></a>
+<a href="https://github.com/AmineSoukara/EgyBest-Api/blob/main/examples/dls_v4.json"><img src="https://img.shields.io/badge/Output–V4-01DF01?style=flat&logo=json&logoColor=black"></a>
+
+</details>
+
+
 
 
 </details>
