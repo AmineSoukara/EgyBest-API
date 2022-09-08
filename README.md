@@ -70,7 +70,9 @@ This Project Is Licensed Under The [GNU General Public License v3.0](https://git
 * [x] Extract Previous And Next Episode
 * [x] Extract Movies Or Series From Paths
 
-# 🪐 Documentation:
+<div align="center">
+
+# 🪐 Docs / Examples:
 <div align="left">
 
 <details>	
