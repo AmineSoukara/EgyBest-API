@@ -1,4 +1,4 @@
-![RUN](https://github.com/AmineSoukara/EgyBest-Api/raw/BETA/api/static/rae.gif)
+![RUN](https://github.com/AmineSoukara/EgyBest-Api/raw/main/api/static/rae.gif)
 
 <div align="center">
 
