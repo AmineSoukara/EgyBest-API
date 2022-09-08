@@ -75,7 +75,7 @@ This Project Is Licensed Under The [GNU General Public License v3.0](https://git
 # ❤️ Used By :
 
 <a href="https://t.me/EgyBestXBot"><img src="https://img.shields.io/badge/@EgyBestXBot-FF0000?style=flat&logo=telegram&logoColor=black"></a>
-<a href="https://github.com/ImZaw/cloudstream-extensions-arabic/blob/5a398caf08a7841136091b70ba988ddc305b8d98/EgyBestProvider/src/main/kotlin/com/egybest/EgyBestProvider.kt#L240"><img src="https://img.shields.io/badge/CloudStream–APP-FF0000?style=flat&logo=kotlin&logoColor=black"></a>
+<a href="https://github.com/recloudstream/cloudstreamom/egybest/EgyBestProvider.kt#L240"><img src="https://img.shields.io/badge/CloudStream–APP-FF0000?style=flat&logo=kotlin&logoColor=black"></a>
 
 # 🪐 Docs / Examples:
 <div align="left">
