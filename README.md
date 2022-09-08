@@ -40,23 +40,14 @@
 <div align="center">
 
 
-# 👨‍💻 Developer:
+# 👨‍💻 Developer & Support:
 <a href="https://bio.link/aminesoukara"><img src="https://img.shields.io/badge/@AmineSoukara-000000?style=flat&logo=messenger&logoColor=white?logoWidth=100"></a>
-
-# 💬 Support:
 <a href="https://t.me/EgyBestBotSupport"><img src="https://img.shields.io/badge/Group-FF0000?style=flat&logo=telegram&logoColor=white?logoWidth=100"></a>
 <a href="https://t.me/EgyBestBotOriginal"><img src="https://img.shields.io/badge/Channel-FF0000?style=flat&logo=telegram&logoColor=white?logoWidth=100"></a>
 
-# 🕹 Libraries:
-<a href="https://github.com/AmineSoukara/Py-EgyBest-Api"><img src="https://img.shields.io/badge/Python-8000FF?style=flat&logo=github&logoColor=white?logoWidth=100"></a>
-<a href="https://github.com/AmineSoukara/Java-EgyBest-Api"><img src="https://img.shields.io/badge/Java-8000FF?style=flat&logo=github&logoColor=white?logoWidth=100"></a>
-
-
-# 📝 License:
-This Project Is Licensed Under The [GNU General Public License v3.0](https://github.com/AmineSoukara/EgyBest-Api/blob/main/LICENSE)
-
 # ⚠️ Note:
 - For Personal Use Only, Don't Create Or Build Something Huge With This API Without Permission Otherwise You Will Be Banned
+- This Project Is Licensed Under The [GNU General Public License v3.0](https://github.com/AmineSoukara/EgyBest-Api/blob/main/LICENSE)
 
 # ⭐️ Features:
 <div align="left">
@@ -72,10 +63,16 @@ This Project Is Licensed Under The [GNU General Public License v3.0](https://git
 
 <div align="center">
 
+# 🕹 Libraries:
+<a href="https://github.com/AmineSoukara/Py-EgyBest-Api"><img src="https://img.shields.io/badge/Python-8000FF?style=flat&logo=github&logoColor=white?logoWidth=100"></a>
+<a href="https://github.com/AmineSoukara/Java-EgyBest-Api"><img src="https://img.shields.io/badge/Java-8000FF?style=flat&logo=github&logoColor=white?logoWidth=100"></a>
+
+
 # ❤️ Used By :
 
 <a href="https://t.me/EgyBestXBot"><img src="https://img.shields.io/badge/@EgyBestXBot-FF0000?style=flat&logo=telegram&logoColor=black"></a>
 <a href="https://github.com/recloudstream/cloudstreamom/egybest/EgyBestProvider.kt#L240"><img src="https://img.shields.io/badge/CloudStream–APP-FF0000?style=flat&logo=kotlin&logoColor=black"></a>
+<a href="https://pypi.org/project/Py-EgyBest-Api/"><img src="https://img.shields.io/badge/PyEgyBestApi-FF0000?style=flat&logo=pypi&logoColor=white?logoWidth=100"></a>
 
 # 🪐 Docs / Examples:
 <div align="left">
@@ -83,19 +80,24 @@ This Project Is Licensed Under The [GNU General Public License v3.0](https://git
 <details>	
   <summary><b> How To Use ?</b></summary>
 
-## ● Mandatory Configs 
+## 🎰 Mandatory Configs 
+
+* [x] Make Sure You Have All These Mandatory Configs, API Will Not Work Without it
 ```
-[+] Make Sure You Get All These Mandatory Configs:
-    [-] API_URL - ACCESS_TOKEN - REFRESH_TOKEN - ID - PASSWORD
-    [-] You Can Get it From https://t.me/EgyBestAPIBot
-[+] API Will Not Work Without it.
+API_URL - ACCESS_TOKEN - REFRESH_TOKEN - ID - PASSWORD
 ```
+* [x] You Can Get it From:
+<div align="center">
+<a href="https://t.me/EgyBestAPIBot"><img src="https://img.shields.io/badge/@EgyBestAPIBot-FFFF00?style=flat&logo=telegram&logoColor=white?logoWidth=100"></a>
+
+<div align="left">
 
 # /dls:
+
 <details>
 <summary><b> Extract Download and Stream Links With Full Info</b></summary>
 
-### Args:
+### Arguments:
 |  args  | required |  Note |
 |--------|----------|------|
 |  v     |  False   | 1-2 Return As list 3-4 As Dict, Default 1 |
@@ -128,3 +130,4 @@ print(response.json())
 
 
 </details>
+
