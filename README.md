@@ -26,6 +26,10 @@
   </a>
 </p>
 
+<div align="center">
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAmineSoukara%2FEgyBest-Api&count_bg=%23FF0000&title_bg=%23555555&icon=tinder.svg&icon_color=%23FF0000&title=Hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 <h4>
     <a href="https://www.egybest-api.ga/docs/api/">Docs</a>
   <span> · </span>
@@ -34,11 +38,7 @@
     <a href="https://github.com/AmineSoukara/EgyBest-Api/issues/">Request Feature</a>
   </h4>
 </div>
-
 <br />
-
-<div align="center">
-
 
 # 👨‍💻 Dev & Support:
 <a href="https://bio.link/aminesoukara"><img src="https://img.shields.io/badge/@AmineSoukara-000000?style=flat&logo=messenger&logoColor=white?logoWidth=100"></a>
