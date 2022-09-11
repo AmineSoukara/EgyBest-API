@@ -60,6 +60,7 @@
 * [x] Extract Seasons / Episodes
 * [x] Extract Previous And Next Episode
 * [x] Extract Movies Or Series From Paths
+* [x] And More ...
 
 <div align="center">
 
@@ -71,7 +72,7 @@
 # ❤️ Used By :
 
 <a href="https://t.me/EgyBestXBot"><img src="https://img.shields.io/badge/@EgyBestXBot-FF0000?style=flat&logo=telegram&logoColor=black"></a>
-<a href="https://github.com/recloudstream/cloudstream"><img src="https://img.shields.io/badge/CloudStream–APP-FF0000?style=flat&logo=kotlin&logoColor=black"></a>
+<a href="https://github.com/recloudstream/cloudstream"><img src="https://img.shields.io/badge/CloudStream-FF0000?style=flat&logo=kotlin&logoColor=black"></a>
 <a href="https://pypi.org/project/Py-EgyBest-Api/"><img src="https://img.shields.io/badge/PyEgyBestApi-FF0000?style=flat&logo=pypi&logoColor=white?logoWidth=100"></a>
 
 # 🪐 Docs / Examples:
@@ -131,6 +132,4 @@ print(response.json())
 
 </details>
 
-
-- ```Don't Forget To Leave ⭐️ If You Think This API Is Helpful```
- 
+![⭐️](https://telegra.ph/file/b132a131aabe2106bd335.gif)
