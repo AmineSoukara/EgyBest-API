@@ -24,9 +24,10 @@
   <a href="https://github.com/AmineSoukara/EgyBest-Api/blob/main/LICENSE">
     <img src="https://img.shields.io/github/license/aminesoukara/EgyBest-Api.svg" alt="license" />
   </a>
+  <a href="https://github.com/AmineSoukara/EgyBest-API">
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAmineSoukara%2FEgyBest-Api&count_bg=%23FF0000&title_bg=%23555555&icon=tinder.svg&icon_color=%23FF0000&title=Hits&edge_flat=false" alt="hits" />
+  </a>
 </p>
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAmineSoukara%2FEgyBest-Api&count_bg=%23FF0000&title_bg=%23555555&icon=tinder.svg&icon_color=%23FF0000&title=Hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <h4>
     <a href="https://www.egybest-api.ga/docs/api/">Docs</a>
