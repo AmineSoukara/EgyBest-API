@@ -26,8 +26,6 @@
   </a>
 </p>
 
-<div align="center">
-
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAmineSoukara%2FEgyBest-Api&count_bg=%23FF0000&title_bg=%23555555&icon=tinder.svg&icon_color=%23FF0000&title=Hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <h4>
@@ -41,14 +39,20 @@
 
 ##
 
+<div align="center">
+
 # 👨‍💻 Dev & Support:
 <a href="https://bio.link/aminesoukara"><img src="https://img.shields.io/badge/@AmineSoukara-000000?style=flat&logo=messenger&logoColor=white?logoWidth=100"></a>
 <a href="https://t.me/EgyBestBotSupport"><img src="https://img.shields.io/badge/Group-FF0000?style=flat&logo=telegram&logoColor=white?logoWidth=100"></a>
 <a href="https://t.me/EgyBestBotOriginal"><img src="https://img.shields.io/badge/Channel-FF0000?style=flat&logo=telegram&logoColor=white?logoWidth=100"></a>
 
+##
+
 # ⚠️ Note:
 - For Personal Use Only, Don't Create Or Build Something Huge With This API Without Permission Otherwise You Will Be Banned
 - This Project Is Licensed Under The [GNU General Public License v3.0](https://github.com/AmineSoukara/EgyBest-Api/blob/main/LICENSE)
+
+##
 
 # ⭐️ Features:
 <div align="left">
@@ -65,16 +69,21 @@
 
 <div align="center">
 
+##
+
 # 🕹 Libraries:
 <a href="https://github.com/AmineSoukara/Py-EgyBest-Api"><img src="https://img.shields.io/badge/Python-8000FF?style=flat&logo=github&logoColor=white?logoWidth=100"></a>
 <a href="https://github.com/AmineSoukara/Java-EgyBest-Api"><img src="https://img.shields.io/badge/Java-8000FF?style=flat&logo=github&logoColor=white?logoWidth=100"></a>
 
+##
 
 # ❤️ Used By :
 
 <a href="https://t.me/EgyBestXBot"><img src="https://img.shields.io/badge/@EgyBestXBot-FF0000?style=flat&logo=telegram&logoColor=black"></a>
 <a href="https://github.com/recloudstream/cloudstream"><img src="https://img.shields.io/badge/CloudStream-FF0000?style=flat&logo=kotlin&logoColor=black"></a>
 <a href="https://pypi.org/project/Py-EgyBest-Api/"><img src="https://img.shields.io/badge/PyEgyBestApi-FF0000?style=flat&logo=pypi&logoColor=white?logoWidth=100"></a>
+
+##
 
 # 🪐 Docs / Examples:
 <div align="left">
@@ -132,5 +141,7 @@ print(response.json())
 
 
 </details>
+
+##
 
 ![⭐️](https://telegra.ph/file/b132a131aabe2106bd335.gif)
