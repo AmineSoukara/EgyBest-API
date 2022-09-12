@@ -1,0 +1,73 @@
+{
+  "data": {
+    "actors": [
+      {
+        "image": "https://i.egycdn.com/pic/YWxZRWNtVFRZakVjdk5qbGNVVGRUag.jpg",
+        "link": "https://www.egybest.org/actor/tom-cruise/",
+        "name": "Tom Cruise",
+        "role": "Capt. Pete \u0027Maverick\u0027 Mitchell"
+      },
+      {
+        "image": "https://i.egycdn.com/pic/YWxZRWNtdm1FbVlhY21FbUhOdmxQdk5n.jpg",
+        "link": "https://www.egybest.org/actor/val-kilmer/",
+        "name": "Val Kilmer",
+        "role": "Adm. Tom \u0027Iceman\u0027 Kazansky"
+      },
+      {
+        "image": "https://i.egycdn.com/pic/YWxZRWNtbW1FdmNtYkVjbVlnYW1nYWxtRWE.jpg",
+        "link": "https://www.egybest.org/actor/joseph-kosinski/",
+        "name": "Joseph Kosinski",
+        "role": "Director"
+      },
+      {
+        "image": "https://i.egycdn.com/pic/YWxZRWNtdm1tRWNtVGJ3ZFRibUlsbA.jpg",
+        "link": "https://www.egybest.org/actor/jennifer-connelly/",
+        "name": "Jennifer Connelly",
+        "role": "Penny Benjamin"
+      },
+      {
+        "image": "https://i.egycdn.com/pic/YWxZRWNtRW1tbXBFRWNsbXZsbXBibUVtWXo.jpg",
+        "link": "https://www.egybest.org/actor/jon-hamm/",
+        "name": "Jon Hamm",
+        "role": "Adm. Beau \u0027Cyclone\u0027 Simpson"
+      },
+      {
+        "image": "https://i.egycdn.com/pic/YWxZRWNtdm1ITkVFY2xtVEV4Y05qd1RF.jpg",
+        "link": "https://www.egybest.org/actor/miles-teller/",
+        "name": "Miles Teller",
+        "role": "Lt. Bradley \u0027Rooster\u0027 Bradshaw"
+      }
+    ],
+    "country": "الولايات المتحدة الأمريكية",
+    "duration": "02:10:15",
+    "genres": [
+      "PG-13",
+      "يجب إرشاد الآباء, لا يناسب الأطفال أقل من 13 سنة."
+    ],
+    "img": "https://i.egycdn.com/pic/WmFwZndlY212bUVtbW1ZbW1wRUVjY3dhbWptam1Fd2Z3bA.jpg",
+    "language": "الانجليزية",
+    "note": "نسخة [BluRay] تتوفر في 1 نوفمبر 2022 تقريباً.هذه المواعيد تقديرية قد تصدر النسخة قبل او بعد الميعاد الموضح بقليل.",
+    "quality": [
+      "WEB-DL",
+      "1080p",
+      "منذ 21 يوم"
+    ],
+    "rating": [
+      "8.5 من 10",
+      "304,970 صوت"
+    ],
+    "story": "بعد مسيرة امتدت لأكثر من ثلاثين عامًا حتى صار واحدًا من أكفأ الطيارين في سلاح الجو اﻷمريكي، يخطو بيتي ميتشيل خطوة جديدة في مسيرته في مجال الطيران من خلال تجربة الطائرات الجديدة.",
+    "title": "Top Gun: Maverick (2022)",
+    "trailer": "https://www.youtube.com/embed/qSqVVswa420?autoplay\u003d1",
+    "translation": [
+      "مترجم",
+      "شـكـراً عمر الشققي \u0026 إسلام الجيزاوي"
+    ],
+    "type": [
+      "اكشن",
+      "دراما"
+    ]
+  },
+  "success": true,
+  "type": "movie"
+}
