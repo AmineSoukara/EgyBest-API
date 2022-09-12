@@ -109,11 +109,11 @@ API_URL - ACCESS_TOKEN - REFRESH_TOKEN - ID - PASSWORD
 <details>
 <summary><b> Extract Download and Stream Links With Full Info</b></summary>
 
-### Arguments:
-|  args  | required |  Note |
-|--------|----------|------|
-|  v     |  False   | 1-2 Return As list 3-4 As Dict, Default 1 |
-|  url   |  True    | Episode or Movie link |
+### Parameters:
+|  Name  | Required |  Type  | Description |
+|--------|----------|--------|-------------|
+|  v     |  False   | Number | 1-2 Return As list 3-4 As Dict, Default 1 |
+|  url   |  True    | String | Episode or Movie link |
 
 ### Example:
 ```py
