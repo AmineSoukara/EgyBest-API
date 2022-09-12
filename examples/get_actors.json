@@ -1,0 +1,42 @@
+{
+  "data": [
+    {
+      "image": "https://i.egycdn.com/pic/YWxZRWNtYm1qbUVtdWNtZ2FsbWZ3bHZjbUk.jpg",
+      "link": "https://www.egybest.org/actor/matt-reeves/",
+      "name": "Matt Reeves",
+      "role": "Director"
+    },
+    {
+      "image": "https://i.egycdn.com/pic/YWxZRWNtWWptbW12RWNtdndUVHZteGptWWo.jpg",
+      "link": "https://www.egybest.org/actor/robert-pattinson/",
+      "name": "Robert Pattinson",
+      "role": "Bruce Wayne, The Batman"
+    },
+    {
+      "image": "https://i.egycdn.com/pic/YWxZRWN2dE51Y21ieGxtam1ZSXhs.jpg",
+      "link": "https://www.egybest.org/actor/colin-farrell/",
+      "name": "Colin Farrell",
+      "role": "Oz, The Penguin"
+    },
+    {
+      "image": "https://i.egycdn.com/pic/YWxZRWNtVFR2dnRSY21Hd2x3VEVjd2FL.jpg",
+      "link": "https://www.egybest.org/actor/zoe-kravitz/",
+      "name": "Zoe Kravitz",
+      "role": "Selina Kyle"
+    },
+    {
+      "image": "https://i.egycdn.com/pic/YWxZRWN2TmJtSFJjUG1FbXphbWptanZjbUk.jpg",
+      "link": "https://www.egybest.org/actor/andy-serkis/",
+      "name": "Andy Serkis",
+      "role": "Alfred"
+    },
+    {
+      "image": "https://i.egycdn.com/pic/YWxZRWNtWUxOYkVjY2t0a3d4eHhtYg.jpg",
+      "link": "https://www.egybest.org/actor/paul-dano/",
+      "name": "Paul Dano",
+      "role": "The Riddler"
+    }
+  ],
+  "success": true,
+  "type": "movie"
+}
