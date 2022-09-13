@@ -114,7 +114,8 @@ API_URL - ACCESS_TOKEN - REFRESH_TOKEN - ID - PASSWORD
 |--------|----------|--------|-------------|
 |  v     |  False   | Number | 1-2 Return As list 3-4 As Dict, Default 1 |
 |  url   |  True    | String | Episode or Movie link |
-
+### Method:
+- GET
 ### Example:
 ```py
 import requests
@@ -139,7 +140,36 @@ print(response.json())
 </details>
 
 
+# /search:
 
+<details>
+<summary><b>Smart Search</b></summary>
+
+### Parameters:
+|  Name  | Required |  Type  | Description |
+|--------|----------|--------|-------------|
+|  type     |  False   | String | types: all-serie-movie-anime-show, default: all |
+|  query   |  True    | String | title (Show - Movie ...) |
+### Method:
+- GET
+### Example:
+```py
+import requests
+                 
+TOKEN = "abcd123"
+API = "http://0.1.2.3"
+HEADERS = {'Authorization': 'Bearer ' + TOKEN, 'Accept': 'application/json', 'Content-Type': 'application/json'}
+PARAMS = {"query": "hulk", "type": "movie"}                      
+URL = API +  "/search"
+
+response = requests.get(URL, headers=HEADERS, params=PARAMS)
+
+print(response.status_code)
+print(response.json())
+```
+<a href="https://github.com/AmineSoukara/EgyBest-Api/blob/main/examples/search.json"><img src="https://img.shields.io/badge/Output-01DF01?style=flat&logo=json&logoColor=black"></a>
+
+</details>
 
 </details>
 
